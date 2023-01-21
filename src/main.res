@@ -19,5 +19,5 @@ switch root {
       <App />
     </React.StrictMode>,
   )
-| None => ()
+| None => Js.Exn.raiseError("Not found root tag")
 }
