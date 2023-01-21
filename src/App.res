@@ -1,4 +1,4 @@
-type pages = Todo
+%%raw("import './styles/main.css'")
 
 @react.component
 let make = () => {

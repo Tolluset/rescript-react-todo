@@ -1,3 +1,5 @@
+@module external styles: {..} = "./Todo.module.css"
+
 type todo = {
   id: int,
   title: string,
