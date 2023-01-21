@@ -1,3 +1,4 @@
+// Use getExn to get error when can't find root tag
 // ReactDOM.querySelector("#root1")
 // ->Belt.Option.getExn
 // ->ReactDOM.Client.createRoot
