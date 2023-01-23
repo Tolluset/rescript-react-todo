@@ -11,3 +11,9 @@ yarn            // install
 yarn dev        // to check application
 yarn res:dev    // to compile rescript file, open in another terminal
 ```
+
+## Blog
+
+This respoistory is using for following blog.
+
+https://dev.classmethod.jp/articles/rescript-react-first-time/ (korean)
